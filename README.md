@@ -10,17 +10,17 @@ Program: Applied Data Science
 
 Suid: 252200445 
 
-Email: ppatel@syr.edu
+Email: pppatel@syr.edu
 
-### Portfolio Files
+## Portfolio Files Directory
 
-## Documents
+### Documents
 1. Parin_Patel_Resume_2020.pdf
 2. Parin_Patel_Portfolio.pdf
 3. Parin_Patel_Portfolio_Presentation.ppt
 
 
-## Learning Goals: Each folder contains the corresponding files. 
+### Learning Goals: Each folder contains the corresponding files. 
 1. Objective 1 - Broad Overview Data Science
 2. Objective 2- Collect and Organize Data
 3. Objective 3 - Identify Patterns in Data 
